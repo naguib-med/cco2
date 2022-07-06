@@ -1,0 +1,43 @@
+NVIDIA	GIGABYTE	GT 1030 2GB		-	-	Windows 10		Claymore	50	Zcash	Equihash	250	$ 0.03	$ 1.00	-	$ -3.46
+NVIDIA	PNY	PNY QUADRO M4000 8GB		-	-	Windows 10			70	Monero	Cryptonight	250	$ 0.02	$ 0.62	-	$ -5.63
+NVIDIA	PNY	PNY 1050 TI		1797	7000	Windows 7 x64		NICEHASH GUI	75	Zcash	Equihash	138	$ 0.02	$ 0.55	-	$ -6.15
+NVIDIA	EVGA	EVGA GEFORCE 750 TI		-	-	Windows 7 x64		NICEHASH GUI	65	Zcash	Equihash	72	$ 0.01	$ 0.29	-	$ -5.51
+NVIDIA	MSI	1070 TI 8GB		1645	4475	Windows 10	388.43	DSTM Zminer	250	Pascal Coin	Pascal	583000000	$ 0.01	$ 0.16	2.33	$ -22.16
+NVIDIA	GIGABYTE	GTX 1050 TI 4Gb		1810	3561	Unbuntu 15.04	5.X.X	Bitminer 7.X	50	Pascal Coin	Pascal	332000000	$ 0.00	$ 0.09	6.64	$ -4.37
+NVIDIA	GIGABYTE	RX 550		1250	1825	Windows 10		Claymore	50	Decred	Blake-256	500000000	$ 0.00	$ 0.09	10.00	$ -4.37
+NVIDIA	ASUS	ROG GTX 1060 6Gb		2050	3898	Windows 10	385.41		122	Pascal Coin	Pascal	177000000	$ 0.00	$ 0.05	1.45	$ -10.84
+NVIDIA	ASUS	ROG GTX 1060 6Gb GDDR5 SAMSUNG Memory - Over Clocked & Under Volted		1822	4704	Windows 10	385.41	Claymore 9.8	0	Decred	Blake-256	232000000	$ 0.00	$ 0.04	inf	$ 0.04
+NVIDIA	ASUS	ROG GTX 1060 6Gb GDDR5 SAMSUNG		2050	3898	Windows 10	385.41	Claymore	0	LBRY Credits	Lbry	18778000	$ 0.00	$ 0.04	inf	$ 0.04
+NVIDIA	ASUS	ROG GTX 1060 6Gb GDDR5 SAMSUNG		2050	3898	Windows 10	385.41	Claymore	0	Siacoin	Blake-256	199400000	$ 0.00	$ 0.03	inf	$ 0.03
+NVIDIA	ASUS	ROG GTX 1060 6Gb GDDR5 SAMSUNG		2050	3898	Windows 10	285.41	Claymore	0	Decred	Blake-256	194000000	$ 0.00	$ 0.03	inf	$ 0.03
+NVIDIA	GIGABYTE	GT 1030 2GB		-	-	Windows 10		Claymore	50	Decred	Blake-256	146000000	$ 0.00	$ 0.02	2.92	$ -4.44
+NVIDIA	INTEL	i5		-	-	Windows 7 Ultimate			0	Bitcoin	SHA-256	500000000	$ 0.00	$ 0.01	inf	$ 0.01
+NVIDIA	GIGABYTE	RX 550		1250	1825	Windows 10		Claymore	50	Pascal Coin	Pascal	563	$ 0.00	$ 0.00	-	$ -4.46
+NVIDIA	GIGABYTE	RX 550		1250	1825	Windows 10		Claymore	50	LBRY Credits	Lbry	257	$ 0.00	$ 0.00	-	$ -4.46
+NVIDIA	GIGABYTE	GT 1030 2GB		-	-	Windows 10		Claymore	50	LBRY Credits	Lbry	108	$ 0.00	$ 0.00	-	$ -4.46
+NVIDIA	GIGABYTE	GT 1030 2GB		-	-	Windows 10		Claymore	50	Pascal Coin	Pascal	304	$ 0.00	$ 0.00	-	$ -4.46
+NVIDIA	EVGA	GTX 1070 TI 8Gb		1683	4498	Windows 10	388.13	excavator	220	Ethereum	Ethash	28	$ 0.00	$ 0.00	-	$ -19.64
+NVIDIA	ZOTAC	GTX 1070 Ti AMP		2060	4700	Windows 10	388.13 / Afterburner 4.4.0 Beta 20	BBT-multiminer-v5.6.2	140	LBRY Credits	Lbry	795	$ 0.00	$ 0.00	-	$ -12.50
+NVIDIA	ZOTAC	GTX 1070 Ti AMP		1680	4800	Windows 10	388.13 / Afterburner 4.4.0 Beta 20	BBT-multiminer-v5.6.2	190	Siacoin	Blake-256	1900	$ 0.00	$ 0.00	-	$ -16.96
+RIGS	NVIDIA	13x ASUS GTX 1080 Ti		-	-	Windows 10		Claymore v10	1158	Ethereum	Ethash	464000000	$ 58.00	$ 1740.05	0.40	$ 1636.66
+RIGS	PANDAMINER	B1 Plus		-	-				1250	Ethereum	Ethash	237000000	$ 29.63	$ 888.77	0.19	$ 777.17
+RIGS	PANDAMINER	B3 Plus		-	-				1250	Ethereum	Ethash	220000000	$ 27.50	$ 825.02	0.18	$ 713.42
+RIGS	SAPPHIRE	6x RX570 Sapphire Nitro+ OC		1100	1900	Windows 10		Claymore 11.7	750	Ethereum	Ethash	176000000	$ 22.00	$ 660.02	0.23	$ 593.06
+RIGS	NVIDIA	Rig 6 x 1070 GTX EThereum, Zcash		-	-				166	Ethereum	Ethash	172000000	$ 21.50	$ 645.02	1.04	$ 630.20
+RIGS	PANDAMINER	B5 Plus		-	-				800	Ethereum	Ethash	110000000	$ 13.75	$ 412.51	0.14	$ 341.09
+RIGS	POWERCOLOR	2x Red Devil RX 570 8GB		1112	2040	Ubuntu 16.04	AMDGPU Pro 17.50	Claymore 17.3	301	Ethereum	Ethash	58300000	$ 7.29	$ 218.63	0.19	$ 191.76
+RIGS	ASUS	8x Vega RX64 REFERENT		-	-	Windows 7 x64	up-to-date	Cast XMR 0.9.2 or XMRCGPU with Win-speed.com OS tuneup	1320	Monero	Cryptonight	16720	$ 1.37	$ 41.17	-	$ -76.68
+RIGS	AMD	12 x Sapphire RX580 Nitro+ intensity 105, undervolt 980		1330	2190	Windows 10	Adrenalin 18.6.1	SRBMiner	1777	Monero	Cryptonight	12615	$ 1.04	$ 31.06	-	$ -127.59
+RIGS	AMD	12 x Sapphire RX580 Nitro+		1330	2190	Windows 10	Adrenalin 18.6.1	SRBMiner	1777	Monero	Cryptonight	12615	$ 1.04	$ 31.06	-	$ -127.59
+RIGS	AMD	6X SAPPHIRE VEGA 64 BLACK EDITION		-	-	Windows 10	XMR-STAK-AMD		1250	Monero	Cryptonight	11000	$ 0.90	$ 27.08	-	$ -84.52
+RIGS	MSI	10X RX 580 ARMOR OC 8GB		-	-				1500	Monero	Cryptonight	7380	$ 0.61	$ 18.17	-	$ -115.75
+RIGS	POWERCOLR	4X POWERCOLOR RX VEGA 64		-	-	Windows 10		XMR-STAK-AMD	720	Monero	Cryptonight	6700	$ 0.55	$ 16.50	-	$ -47.78
+RIGS	SAPPHIRE	7 X SAPPHIRE RX 570 PULSE		-	-	Ubuntu 16.04		XMR-STAK-AMD	770	Monero	Cryptonight	5930	$ 0.49	$ 14.60	-	$ -54.15
+RIGS	AMD	3X RX VEGA 56 8GB (MSI, XFX, SAPPHIRE)		-	-	Windows 10		XMR-STAK-AMD	540	Monero	Cryptonight	5506	$ 0.45	$ 13.56	-	$ -34.65
+RIGS	AMD	3X VEGA 56		-	-	Windows 10		XMR-STAK-AMD	570	Monero	Cryptonight	5420	$ 0.44	$ 13.34	-	$ -37.55
+RIGS	AMD	XMR-STAK-AMD		-	-	Windows 10		3X VEGA56	550	Monero	Cryptonight	5100	$ 0.42	$ 12.56	-	$ -36.54
+RIGS	AMD	2X RX VEGA 64 LIQUID		-	-	Windows 10		XMR-STAK-AMD	320	Monero	Cryptonight	3980	$ 0.33	$ 9.80	-	$ -18.77
+RIGS	AMD	2X VEGA 56		-	-	Windows 10		XMR-STAK-AMD	400	Monero	Cryptonight	3700	$ 0.30	$ 9.11	-	$ -26.60
+RIGS	ASUS	6X RX 570 ASUS STRIX OC 4GB		-	-	Windows 10 pro		Claymore 9.7	830	Monero	Cryptonight	3447	$ 0.28	$ 8.49	-	$ -65.61
+RIGS	AMD	RX580 8GB + RX580 4GB + RX 470 4GB		-	-	Windows 10		WOLF'S XMR MINER	300	Monero	Cryptonight	2320	$ 0.19	$ 5.71	-	$ -21.07
+RIGS	POWERCOLOR	DEVIL13 2X R9 390		-	-	Windows 7 x64		CLAYMORE'S AMD GPU MINER V12.3	500	Zcash	Equihash	820	$ 0.11	$ 3.27	-	$ -41.37O

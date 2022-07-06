@@ -1,0 +1,75 @@
+# Cache downloaded dependencies and plugins between builds.
+# Not strictly necessary, but speeds up the builds.
+cache:
+  key: "$CI_INTEGRATION_PIPELINE"
+  paths:
+    # Must be within the repository under test hence we can't use the
+    #default ~/.m2
+    - .m2/repository
+variables:
+  # Use the cached directory above.
+  MAVEN_OPTS: "-Dmaven.repo.local=$CI_PROJECT_DIR/.m2/repository"
+
+test-ci:
+  image: maven:3.6.1-jdk-11 # docker image with Maven
+  before_script:
+    - . ci/setup-mvn-proxy.sh
+    - chmod 400 $CI_SSH_KEY
+  script:
+    - scp -o StrictHostKeyChecking=no -i $CI_SSH_KEY /builds/groupe-11-projet-trans/projet/README.md gitlabci@192.168.74.198:~
+
+deploy-backend:
+  image: maven:3.6.1-jdk-11 # docker image with Maven
+  services:
+    - postgres:12.2-alpine
+  variables:
+    POSTGRES_DB: "jdbc:postgresql://localhost/cco2"
+    POSTGRES_USER: "ucco2"
+    POSTGRES_PASSWORD: "pcco2"
+    POSTGRES_HOST_AUTH_METHOD: trust
+
+    Host: "gitlabci@192.168.74.198"
+    User: $POSTGRES_USER
+    Password: $POSTGRES_PASSWORD
+    Database: $POSTGRES_DB
+  before_script:
+    - echo $CI_SSH_KEY
+    - ls -lah
+    - . ci/setup-mvn-proxy.sh
+    - chmod 400 $CI_SSH_KEY
+  script:
+    - cd ./back-end/
+    - mvn clean package
+    - scp -o StrictHostKeyChecking=no -i $CI_SSH_KEY /builds/groupe-11-projet-trans/projet/back-end/target/cco2backend-1.0-SNAPSHOT.war gitlabci@192.168.74.198:/opt/tomcat/webapps/cco2backend-1.0-SNAPSHOT.war
+
+deploy-frontend:
+  image: node:10 # TODO: passer la version de node dans le Docker à la version 10. (Actuellement version 12)
+  before_script:
+    - npm --version
+    - ls -lah
+    - . ci/setup-mvn-proxy.sh
+    - chmod 400 $CI_SSH_KEY
+  script:
+    - echo $CI_SSH_KEY
+    - cd ./client/
+    - npm install
+    - npm run build
+    # TODO : zipper le dist en local, scp -o ... dist.gz, ssh -o .. "gzip -x?? dist.gz", ssh -o .. mv dist/ /var/www/
+    - scp -o StrictHostKeyChecking=no -i $CI_SSH_KEY -r  /builds/groupe-11-projet-trans/projet/client/dist/ gitlabci@192.168.74.198:/var/www/html/
+  allow_failure: true
+
+# sonarqube-check:
+#  image: maven:3.6.1-jdk-11 # docker image with Maven
+#  variables:
+#    SONAR_USER_HOME: .sonar/  # Defines the location of the analysis task cache
+#    GIT_DEPTH: "0"  # Tells git to fetch all the branches of the project, required by the analysis task
+#  cache:
+#    key: "$CI_JOB_NAME"
+#    paths:
+#      - .sonar/cache
+#  script:
+#    - cd ./back-end/
+#    - mvn verify sonar:sonar
+#  allow_failure: true
+#  only:
+#    - main # or the name of your main branch

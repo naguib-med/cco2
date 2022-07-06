@@ -1,0 +1,14 @@
+Installer postgres
+Ajouter l'utilisateur ucco2 dans pg_hba.conf avec identification md5
+
+Se connecter a psql en tant que l'utilisateur postgres et lancer ces 3 commandes
+
+CREATE DATABASE cco2;
+CREATE USER ucco2 WITH ENCRYPTED PASSWORD 'pcco2';
+GRANT ALL PRIVILEGES ON DATABASE cco2 TO ucco2;
+
+lancer cco2create.sql puis cco2insertminers.sql (en tant que ucco2)
+
+mvn tomcat7:redeploy
+
+requete GET vers /projapp/test

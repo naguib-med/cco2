@@ -1,0 +1,4 @@
+DELETE FROM fhasm WHERE true;
+DELETE FROM miner WHERE true;
+DELETE FROM farm WHERE true;
+DELETE FROM users WHERE true;

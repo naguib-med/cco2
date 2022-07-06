@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="https://192.168.74.198/api/home" method="get">
+    <input type="text" name="x-access-token">
+    <input type="submit" value="Home">
+</form>
+<form action="https://192.168.74.198/api/farm/541" method="get">
+    <input type="text" name="x-access-token">
+    <input type="submit" value="View farm">
+</form>
+<form action="https://192.168.74.198/api/farm/541/add" method="post">
+    <input type="text">
+    <input type="text" name="x-access-token">
+    <input type="submit" value="Add miner to">
+</form>
+<form action="https://192.168.74.198/api/farm/add" method="post">
+    <input type="text" name="name">
+    <input type="text" name="x-access-token">
+    <input type="submit" value="Add farm">
+</form>
+<form action="https://192.168.74.198/api/minerSearch" method="post">
+    <input type="text" name="search">
+    <input type="submit" value="Search">
+</form>
+<form action="https://192.168.74.198/api/login" method="post">
+    <input type="text" name="username">
+    <input type="password" name="password">
+    <input type="submit" value="Login">
+</form>
+<form action="https://192.168.74.198/api/register" method="post">
+    <input type="text" name="username">
+    <input type="password" name="password">
+    <input type="submit" value="Register">
+</form>
+<form action="https://192.168.74.198/api/logout" method="get">
+    <input type="text" name="x-access-token">
+    <input type="submit" value="Logout">
+</form>
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,100 @@
+AMD	AMD	AMD Radeon VII		1750	1100	Windows 10		Phoenix miner 4.2c	296	Ethereum	Ethash	90000000	$ 11.25	$ 337.51	0.30	$ 311.08
+AMD	MSI	RX 6800 XT		2420	1150			Phoenix Miner 5.2C	120	Ethereum	Ethash	64000000	$ 8.00	$ 240.01	0.53	$ 229.30
+AMD	AMD	RX 5700 XT		795	1884	Windows 10		Phoenix Miner	106	Ethereum	Ethash	58000000	$ 7.25	$ 217.51	0.55	$ 208.05
+AMD	SAPPHIRE	RX 470 (!!)		-	-	Windows 10	Crimson 17.5.1	Claymore	150	Ethereum	Ethash	57000000	$ 7.13	$ 213.76	0.38	$ 200.37
+AMD	MSI	RADEON RX VEGA 56		1360	1155	Windows 10	Crimson 43.4.0 Beta 19		300	Ethereum	Ethash	45000000	$ 5.63	$ 168.75	0.15	$ 141.97
+AMD	XFX	RX VEGA 64		1000	1100	Windows 10	17.8.2	Claymore 9.8	175	Ethereum	Ethash	43600000	$ 5.45	$ 163.50	0.25	$ 147.88
+AMD	HIS	RX Vega 64 8 gb		963	1100	Windows 10	Crimson 17.8.2	Claymore 9.7	138	Ethereum	Ethash	42500000	$ 5.31	$ 159.38	0.31	$ 147.06
+AMD	SAPPHIRE	Nitro+ RX VEGA 56 8GB HBM2		1590	945	Windows 10		Claymore	275	Ethereum	Ethash	41600000	$ 5.20	$ 156.00	0.15	$ 131.45
+AMD	SAPPHIRE	Nitro+ RX VEGA 56 8GB HBM2		1590	945	Windows 10		Claymore	275	Ethereum	Ethash	41600000	$ 5.20	$ 156.00	0.15	$ 131.45
+AMD	POWERCOLOR	Radeon VII		1895	1050	Windows 10	20.9.1	lolmineur	296	Ethereum	Ethash	39380000	$ 4.92	$ 147.68	0.13	$ 121.25
+AMD	EVGA	GeForce GTX 1080 TI FTW3 iCX		1923	6000	Windows 10	385.41	Claymore	185	Ethereum	Ethash	39205000	$ 4.90	$ 147.02	0.21	$ 130.50
+AMD	MSI	MSI RADEON RX 580 GAMING X+ NO OC		1441	2025	Windows 7		Claymore 9.4	150	Ethereum	Ethash	37380000	$ 4.67	$ 140.18	0.25	$ 126.79
+AMD	SAPPHIRE	R9 HD 7990 6GB GDDR5		950	1500		-	Claymore	375	Ethereum	Ethash	36000000	$ 4.50	$ 135.00	-	$ 101.52
+AMD	SAPPHIRE	Nitro+ RX VEGA 56 8GB HBM2		1590	800	Windows 10		Claymore	256	Ethereum	Ethash	34800000	$ 4.35	$ 130.50	0.14	$ 107.64
+AMD	SAPPHIRE	RX 570 Nitro + Hynix memory (Bios modded)		1150	2175	Windows 10	Crimson BETA for blockchain	PIRL	85	Ethereum	Ethash	33000000	$ 4.13	$ 123.75	0.39	$ 116.16
+AMD	SAPPHIRE	RX 580		1181	2250	Windows 10	BLOCKCHAIN DRIVERS	CLAYMORE	140	Ethereum	Ethash	31800000	$ 3.98	$ 119.25	0.23	$ 106.75
+AMD	POWERCOLOR	RX 590 Red Devil		1576	2000	Windows 10			120	Ethereum	Ethash	31700000	$ 3.96	$ 118.88	0.26	$ 108.17
+AMD	AMD	Rx 580 nitro+ 8go micron flashed		1240	2200	Windows 10 pro	Adrenaline 18.3.4	claymore	250	Ethereum	Ethash	31640000	$ 3.96	$ 118.65	0.13	$ 96.33
+AMD	SAPPHIRE	Rx 580 Nitro+ 8gb SE		1200	2250	Ethos	Ethos 1.3.1	Claymore 11.6	107	Ethereum	Ethash	31600000	$ 3.95	$ 118.50	0.30	$ 108.95
+AMD	POWERCOLOR	RX 580 RED DEVIL		1250	2225	Windows 10 pro	Crymson Aug 23	Claymore 10.5	130	Ethereum	Ethash	31500000	$ 3.94	$ 118.13	0.24	$ 106.52
+AMD	MSI	R9 390		1000	1500	Windows 10		Nicehash	275	Ethereum	Ethash	31000000	$ 3.88	$ 116.25	0.11	$ 91.70
+AMD	AMD	R9 390X 8G		-	-		-	-	235	Ethereum	Ethash	30508000	$ 3.81	$ 114.41	0.13	$ 93.43
+AMD	MSI	R9 290x		1000	1250	Windows 10		Claymore	290	Ethereum	Ethash	30500000	$ 3.81	$ 114.38	0.11	$ 88.49
+AMD	POWERCOLOR	Radeon VII		1895	1050	Windows 10	20.9.1	lolmineur	296	Ethereum	Ethash	30340000	$ 3.79	$ 113.78	0.10	$ 87.35
+AMD	SAPPHIRE	RX 580 Pulse 4GB (all stable)		1310	2090	Windows 10		Claymore	150	Ethereum	Ethash	30100000	$ 3.76	$ 112.88	0.20	$ 99.49
+AMD	MSI	RX 580 Gaming X+ 8GB -96 undervoltage		1375	2150	Windows 10	Crimson 17.5.2	Claymore	150	Ethereum	Ethash	30058000	$ 3.76	$ 112.72	0.20	$ 99.33
+AMD	XFX	Rx 580 8G		1130	2125	Ubuntu		LOLminer	90	Ethereum	Ethash	30000000	$ 3.75	$ 112.50	0.33	$ 104.46
+AMD	AMD	AMD R9 Nano 4gb		1000	500	Windows 10		Claymore	175	Ethereum	Ethash	30000000	$ 3.75	$ 112.50	0.17	$ 96.88
+AMD	SAPPHIRE	RX 580 Nitro 4gb (Undervoltage to -100mVï»¿)		2050	1140	Windows 10		Claymore	150	Ethereum	Ethash	29400000	$ 3.68	$ 110.25	0.20	$ 96.86
+AMD	MSI	RX 570 GAMING X 4GB TWIN FROZR VI		1165	2055	Windows 10	Crimson Relive 17.5.1	Claymore	150	Ethereum	Ethash	29000000	$ 3.63	$ 108.75	0.19	$ 95.36
+AMD	MSI	MSI RX 480 4GB		1316	2350	Windows 10		Claymore	150	Ethereum	Ethash	29000000	$ 3.63	$ 108.75	0.19	$ 95.36
+AMD	MSI	MSI RX 480 8GB		1120	2000	Windows 10		Claymore	150	Ethereum	Ethash	29000000	$ 3.63	$ 108.75	0.19	$ 95.36
+AMD	SAPPHIRE	Sapphire NITRO RX 480 8GB		1202	2000	Windows 10		Claymore	150	Ethereum	Ethash	29000000	$ 3.63	$ 108.75	0.19	$ 95.36
+AMD	SAPPHIRE	Sapphire NITRO+ RX 470 8GB		1121	2000	Windows 10		Nicehash	175	Ethereum	Ethash	29000000	$ 3.63	$ 108.75	0.17	$ 93.13
+AMD	MSI	RX 570 4GB Bios modded		1240	2035	Windows 10	Crimson 17.5.1	Claymore	150	Ethereum	Ethash	28900000	$ 3.61	$ 108.38	0.19	$ 94.99
+AMD	POWERCOLOR	RX 570 4GB Bios modded		110	2020	Windows 10	Crimson 17.1.1	Claymore	160	Ethereum	Ethash	28756000	$ 3.59	$ 107.84	0.18	$ 93.56
+AMD	ASUS	RX 570 ROG Strix 4Gb Gaming OC Edition GDDR5		1112	2000	Windows 10	17.5.1	Claymore	150	Ethereum	Ethash	28500000	$ 3.56	$ 106.88	0.19	$ 93.49
+AMD	ASUS	Sapphire R9 390X 8G		1050	1500	Windows 7 x64	1.2.3	Claymore v9.6	275	Ethereum	Ethash	28500000	$ 3.56	$ 106.88	0.10	$ 82.33
+AMD	POWERCOLOR	RX 480 8 gb		1120	2000	Windows 10		Claymore	150	Ethereum	Ethash	28000000	$ 3.50	$ 105.00	0.19	$ 91.61
+AMD	MSI	MSI RX 470 8GB		926	1650	Windows 10		Claymore	120	Ethereum	Ethash	28000000	$ 3.50	$ 105.00	0.23	$ 94.29
+AMD	ASUS	ASUS RX 470 4GB		926	1650	Windows 10		Nicehash	130	Ethereum	Ethash	28000000	$ 3.50	$ 105.00	0.22	$ 93.39
+AMD	MSI	MSI ARMOR RX570 4GB		1268	1750	Windows 10		Claymore	120	Ethereum	Ethash	28000000	$ 3.50	$ 105.00	0.23	$ 94.29
+AMD	SAPPHIRE	Sapphire Nitro+ OC RX 470 4GB		1143	1750	Windows 10		Nicehash	175	Ethereum	Ethash	28000000	$ 3.50	$ 105.00	0.16	$ 89.38
+AMD	MSI	MSI ARMOR RX 470 4GB		926	1206	Windows 10		Claymore	105	Ethereum	Ethash	28000000	$ 3.50	$ 105.00	0.27	$ 95.63
+AMD	AMD	R9 Fury X		-	-		-	-	298	Ethereum	Ethash	27911000	$ 3.49	$ 104.67	-	$ 78.06
+AMD	SAPPHIRE	RX 570 Nitro + 4 GB Bios modded		-	-	Windows 7		CLAYMORE 9.3	160	Ethereum	Ethash	27500000	$ 3.44	$ 103.13	0.17	$ 88.85
+AMD	MSI	rx 580 4GB after BIOS modding		1100	1900	Windows 10		Claymore	150	Ethereum	Ethash	27500000	$ 3.44	$ 103.13	0.18	$ 89.74
+AMD	XFX	RX 580 8GB OC+ Bios Modded		1366	2150	Windows 10		Claymore	160	Ethereum	Ethash	27222000	$ 3.40	$ 102.09	0.17	$ 87.81
+AMD	ASUS	RX 480 8GB OC ROG STRIX GAMING		1120	2000	Windows 10		Claymore	150	Ethereum	Ethash	27000000	$ 3.38	$ 101.25	0.18	$ 87.86
+AMD	GIGABYTE	RX 580 Gaming 8G (Micron)		1340	2000	Windows 10 pro	18.7.1	ethminer 0.14.0	150	Ethereum	Ethash	26700000	$ 3.34	$ 100.13	0.18	$ 86.74
+AMD	ASUS	RX 580 ASUS ROG STRIX		1360	2000	Windows 10	Crimson Relive 17.7.2	Claymore 9.8	225	Ethereum	Ethash	26000000	$ 3.25	$ 97.50	0.12	$ 77.41
+AMD	SAPPHIRE	RX 580 Sapphire Pulse 8gb gddr5		1366	2000				225	Ethereum	Ethash	26000000	$ 3.25	$ 97.50	0.12	$ 77.41
+AMD	GIGABYTE	Aorus RX 580 XTR 8G		-	-		-	-	241	Ethereum	Ethash	25623000	$ 3.20	$ 96.09	0.11	$ 74.57
+AMD	AORUS	RX 570 AORUS 4GB		1280	1750	Windows 10	17.5.2	Claymore	150	Ethereum	Ethash	25000000	$ 3.13	$ 93.75	0.17	$ 80.36
+AMD	MSI	R9 280X		850	1500	Windows 10		Claymore	250	Ethereum	Ethash	25000000	$ 3.13	$ 93.75	0.10	$ 71.43
+AMD	ASUS	ASUS RX 480 4GB		1320	-	Windows 10		Claymore	150	Ethereum	Ethash	24000000	$ 3.00	$ 90.00	0.16	$ 76.61
+AMD	ASUS	ASUS RX 470 8GB		1270	2060	Arch Linux		Claymore	120	Ethereum	Ethash	24000000	$ 3.00	$ 90.00	0.20	$ 79.29
+AMD	XFX	XFX RX 480 8GB		1338	2000	Windows 10		Claymore	150	Ethereum	Ethash	24000000	$ 3.00	$ 90.00	0.16	$ 76.61
+AMD	SAPPHIRE	Sapphire NITRO RX 480 4GB		1208	1750	Windows 10		Claymore	150	Ethereum	Ethash	24000000	$ 3.00	$ 90.00	0.16	$ 76.61
+AMD	SAPPHIRE	RX 480 NITRO+ 4GB		1400	2100	Windows 10	Crimson 17.1.1	Claymore 9.8	150	Ethereum	Ethash	23700000	$ 2.96	$ 88.88	0.16	$ 75.49
+AMD	GIGABYTE	RX 470 modded		1306	1750	Windows 7 x64	Crimson Relive 17.7.2	Claymore v9.7	150	Ethereum	Ethash	23000000	$ 2.88	$ 86.25	0.15	$ 72.86
+AMD	ASUS	Strix RX 570 OC 4GB (Stock)		-	-	Windows 10		Nicehash v1.7.5.13	150	Ethereum	Ethash	22000000	$ 2.75	$ 82.50	0.15	$ 69.11
+AMD	XFX	RX 470 4GB		1226	1650	Windows 10		Claymore	120	Ethereum	Ethash	22000000	$ 2.75	$ 82.50	0.18	$ 71.79
+AMD	POWERCOLOR	Radeon RX 470 Red Devil 4 GB		926	1650	Windows 10		claymore	140	Ethereum	Ethash	21000000	$ 2.63	$ 78.75	0.15	$ 66.25
+AMD	GIGABYTE	Radeon RX 580 8GB		1257	2000	Windows 10		Claymore	185	Ethereum	Ethash	21000000	$ 2.63	$ 78.75	0.11	$ 62.23
+AMD	SAPPHIRE	R9 380 Nitro 4Gb		985	1450	Windows 10		Claymore	190	Ethereum	Ethash	20500000	$ 2.56	$ 76.88	0.11	$ 59.92
+AMD	MSI	RX 580 ARMOR 8GB		1366	2000	Windows 10	Crimson 17.7.2	Claymore 9.8	150	Ethereum	Ethash	20000000	$ 2.50	$ 75.00	0.13	$ 61.61
+AMD	SAPPHIRE	HD 7970 Sapphire Vapor-X		925	1375	Windows 10		Claymore	250	Ethereum	Ethash	20000000	$ 2.50	$ 75.00	-	$ 52.68
+AMD	GIGABYTE	Radeon RX 570 4GB		1168	1750	Windows 10		Claymore	120	Ethereum	Ethash	20000000	$ 2.50	$ 75.00	0.17	$ 64.29
+AMD	ASUS	R9 280X		850	1500	Windows 10		Claymore	250	Ethereum	Ethash	18000000	$ 2.25	$ 67.50	-	$ 45.18
+AMD	XFX	XFX HD 7970		925	1375	Windows 10		Claymore	250	Ethereum	Ethash	18000000	$ 2.25	$ 67.50	-	$ 45.18
+AMD	MSI	MSI R7 370 4GB		1070	1425	Windows 10		Claymore	110	Ethereum	Ethash	17000000	$ 2.13	$ 63.75	0.15	$ 53.93
+AMD	GIGABYTE	Gigabyte RX 560 4 GB GAMING OC		1150	2240	Windows 10	17.11.2	Claymore dual miner 10.2	65	Ethereum	Ethash	16300000	$ 2.04	$ 61.13	0.25	$ 55.33
+AMD	MSI	R9 270X		1000	1400	Windows 10		Claymore	180	Ethereum	Ethash	16000000	$ 2.00	$ 60.00	-	$ 43.93
+AMD	AMD	gpuShack HD 7950		1100	-				140	Ethereum	Ethash	13000000	$ 1.63	$ 48.75	-	$ 36.25
+AMD	GIGABYTE	RX 560		1175	1750	Windows 10			75	Ethereum	Ethash	11000000	$ 1.38	$ 41.25	0.15	$ 34.55
+AMD	GIGABYTE	Radeon RX 460 4GB		1200	1750	Windows 10	16.8.1	Claymore	75	Ethereum	Ethash	11000000	$ 1.38	$ 41.25	0.15	$ 34.55
+AMD	AMD	AMD 560 4 GB OC		-	-	Windows 10		Ethminer 0.9.41 genoil 1.1.6 pre	80	Ethereum	Ethash	8370000	$ 1.05	$ 31.39	0.10	$ 24.25
+AMD	GIGABYTE	RX 470		1230	1650	Windows 7 x64	CrimsonRelive 17.30.1041	Claymore v9.7	150	Ethereum Classic	Ethash	21900000	$ 0.94	$ 28.12	0.15	$ 14.73
+AMD	AMD	Ryzen 7 1800x		4	2866	Windows 10 pro		xmrig 5.1.1 (randomx)	95	Monero	Cryptonight	5100	$ 0.42	$ 12.56	-	$ 4.08
+AMD	SAPPHIRE	RX 470 nitro -60mV		1150	1950	Windows 10			69	Ubiq	Ethash	28500000	$ 0.23	$ 6.81	0.41	$ 0.65
+AMD	SAPPHIRE	Amd Vega 64 8Gb +30power limit		1200	1100	Bitmain Firmware	Crimson BETA	Claymore	350	Auroracoin	Scrypt	44000000	$ 0.23	$ 6.77	0.13	$ -24.48
+AMD	SAPPHIRE	Nitro+ RX VEGA 56 8GB HBM2		1590	945	Windows 10		Claymore	275	Monero	Cryptonight	1915	$ 0.16	$ 4.71	-	$ -19.84
+AMD	SAPPHIRE	Nitro+ RX VEGA 56 8GB HBM2		1590	945	Windows 10		CAST XMR-Miner	245	Monero	Cryptonight	1915	$ 0.16	$ 4.71	-	$ -17.16
+AMD	SAPPHIRE	RX VEGA 56		2016	1600	Windows 10	AMD beta blockhain (17.30.1029)	XMR-STAK-AMD-NOTLS	180	Monero	Cryptonight	1900	$ 0.16	$ 4.68	-	$ -11.39
+AMD	MSI	RADEON RX VEGA 56		950	-	Windows 10		XMR-STAK-AMD	210	Monero	Cryptonight	1820	$ 0.15	$ 4.48	-	$ -14.27
+AMD	SAPPHIRE	Nitro+ RX VEGA 56 8GB HBM2		1590	800	Windows 10		CAST XMR-Miner	245	Monero	Cryptonight	1605	$ 0.13	$ 3.95	-	$ -17.92
+AMD	AMD	RX VEGA 56 @ 64 BIOS		-	-	Windows 10		XMR-STAK-AMD	190	Monero	Cryptonight	1500	$ 0.12	$ 3.69	-	$ -13.27
+AMD	AMD	RX Vega 56 8 GB HBM2 MEMORY		-	-			XMR-STAK-AMD	300	Monero	Cryptonight	1500	$ 0.12	$ 3.69	-	$ -23.09
+AMD	AMD	RX VEGA 64 - SINGLE CARD STOCK CORE		-	1100	Windows 10		XMR-STAK-AMD	290	Monero	Cryptonight	1293	$ 0.11	$ 3.18	-	$ -22.71
+AMD	MSI	VEGA 64 8GB		1702	1100	Windows 10		XMR-STAK-AMD	241	Monero	Cryptonight	1270	$ 0.10	$ 3.13	-	$ -18.39
+AMD	ASUS	RX 570 ASUS STRIX OC 4GB		-	-		-	CLAYMORE 9.7	138	Monero	Cryptonight	1149	$ 0.09	$ 2.83	-	$ -9.49
+AMD	ASUS	HD7970		-	-	Windows 10		CLAYMORE 9.7	253	Monero	Cryptonight	1120	$ 0.09	$ 2.76	-	$ -19.83
+AMD	AMD	RX VEGA 56 (INTENSITY:1660, WORKSIZE:12, MEM:930 MHZ, GPUFREQ: -3)		-	-	Windows 10		XMR-STAK-AMD	220	Monero	Cryptonight	1091	$ 0.09	$ 2.69	-	$ -16.95
+AMD	AMD	VEGA 56 HIS(-33% POWER, 945MHZ HBM2)		-	-	Windows 10		XMR-STAK-AMD	102	Monero	Cryptonight	1035	$ 0.08	$ 2.55	-	$ -6.56
+AMD	AMD	RX VEGA 56 HIS		-	-	Windows 10		SGMINER	150	Monero	Cryptonight	945	$ 0.08	$ 2.33	-	$ -11.06
+AMD	MSI	RX 570 armor 8gb 0c		1150	2250	Ethos		claymore v11.3	105	Monero	Cryptonight	890	$ 0.07	$ 2.19	-	$ -7.18
+AMD	INTEL	2 X E5-2660 V3 2.60 GHZ 10 CORES 25MB CACHE		-	-	Windows Server 2008 R2		CLAYMORE CRYPTONOTE CPU MINER 3.5	105	Monero	Cryptonight	847	$ 0.07	$ 2.09	-	$ -7.28
+AMD	INTEL	DUAL XEON E5-2670		-	-	Ubuntu 16.04		XMRIG	230	Monero	Cryptonight	850	$ 0.07	$ 2.09	-	$ -18.44
+AMD	MSI	R9 390 OC		1155	1500	Windows 10		Claymore	258	Monero	Cryptonight	832	$ 0.07	$ 2.05	-	$ -20.98

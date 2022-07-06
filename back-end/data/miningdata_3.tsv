@@ -1,0 +1,100 @@
+ASICS	BITMAIN	Z9 mini		-	-	Bitmain Firmware		-	300	Zcash	Equihash	10000	$ 1.33	$ 39.94	-	$ 13.16
+ASICS	ASICS	L3 asic scrypt Litecoin Miner		-	-				400	Litecoin	Scrypt	250000000	$ 1.22	$ 36.66	0.63	$ 0.95
+ASICS	ASICS	A4-135 scrypt Litecoin		-	-				520	Litecoin	Scrypt	135000000	$ 0.66	$ 19.80	0.26	$ -26.63
+ASICS	BITMAIN	Antminer S5		-	-	Bitmain Firmware			750	Bitcoin	SHA-256	1160000000000	$ 0.46	$ 13.89	1546.67	$ -53.07
+ASICS	BAIKAL	Giant+ Dash Miner A2000		-	-				430	Dash	X11	2000000000	$ 0.35	$ 10.63	4.65	$ -27.76
+ASICS	ASICS	AM200		-	-	Arch Linux			900	Zcash	Equihash	1500	$ 0.20	$ 5.99	-	$ -74.36
+ASICS	BITMAIN	AntMiner S3		-	-				366	Bitcoin	SHA-256	441000000000	$ 0.18	$ 5.28	1204.92	$ -27.40
+ASICS	BAIKAL	Giant A900 Dash Miner		-	-				215	Dash	X11	900000000	$ 0.16	$ 4.78	4.19	$ -14.42
+ASICS	BAIKAL	Giant A900 Dash		-	-	Bitmain Firmware			217	Dash	X11	900000000	$ 0.16	$ 4.78	4.15	$ -14.59
+ASICS	BAIKAL	Quadruple 600MH		-	-				160	Dash	X11	600000000	$ 0.11	$ 3.19	3.75	$ -11.09
+ASICS	ASICS	Pinidea Dr2 X11 450MH Dash Miner		-	-				335	Dash	X11	450000000	$ 0.08	$ 2.39	1.34	$ -27.52
+ASICS	BAIKAL	Baikal Dash Mini Miner		-	-				40	Dash	X11	150000000	$ 0.03	$ 0.80	3.75	$ -2.77
+ASICS	BAIKAL	CUBE DASH Miner		-	-				300	Dash	X11	85000000	$ 0.02	$ 0.45	0.28	$ -26.33
+ASICS	BITMAIN	GekkoScience USB Key		-	-	Bitmain Firmware			0	Bitcoin	SHA-256	15000000000	$ 0.01	$ 0.18	inf	$ 0.18
+ASICS	BITMAIN	Antrouter R1		-	-	Bitmain Firmware			0	Bitcoin	SHA-256	5500000000	$ 0.00	$ 0.07	inf	$ 0.07
+ASICS	AVALON	Nano 3.6GHs - 3th generation bitcoin		-	-				0	Bitcoin	SHA-256	3600000000	$ 0.00	$ 0.04	inf	$ 0.04
+ASICS	AVALON	Avalon Nano 3		-	-	Bitmain Firmware			1360	Bitcoin	SHA-256	3600000000	$ 0.00	$ 0.04	2.65	$ -121.38
+ASICS	BITMAIN	BPMC Red Fury USB		-	-	Bitmain Firmware			1250	Bitcoin	SHA-256	2700000000	$ 0.00	$ 0.03	2.16	$ -111.57
+ASICS	ASICS	SP20 Jackson		-	-	Bitmain Firmware			1200	Bitcoin	SHA-256	1700000000	$ 0.00	$ 0.02	1.42	$ -107.12
+ASICS	BITMAIN	AntMiner U2		-	-	Bitmain Firmware			1050	Bitcoin	SHA-256	2000000000	$ 0.00	$ 0.02	1.90	$ -93.72
+ASICS	ASICS	Miner DR3 Dash Coin Miner		-	-				345	Bitcoin	SHA-256	600000000	$ 0.00	$ 0.01	1.74	$ -30.79
+ASICS	ASICS	GEASSMINER AM200		1400	1180	Arch Linux			1350	Ethereum	Ethash	230	$ 0.00	$ 0.00	-	$ -120.53
+ASICS	ASICS	Sapphire miner		-	-	Bitmain Firmware			180	Bitcoin	SHA-256	330000000	$ 0.00	$ 0.00	1.83	$ -16.07
+CPU	AMD	2* AMD EPYC - 7601		-	-	Windows Server 2012 R2		64-bit xmrcgpu.com 1/2 CPU affinity	336	Monero	Cryptonight	4130	$ 0.34	$ 10.17	-	$ -19.83
+CPU	AMD	DUAL AMD EPYC 7601		-	-	Windows 7 Pro		XMRCGPU	330	Monero	Cryptonight	3860	$ 0.32	$ 9.50	-	$ -19.96
+CPU	AMD	DUAL AMD EPYC 7601		-	-	Ubuntu 17.04		cpuminer-multi	336	Monero	Cryptonight	3530	$ 0.29	$ 8.69	-	$ -21.31
+CPU	AMD	DUAL AMD EPYC 7601		-	-	DEBIAN 9		CPU-MINER-MULTI	336	Monero	Cryptonight	3500	$ 0.29	$ 8.62	-	$ -21.38
+CPU	INTEL	INTEL XEON PHI 7210		-	-	Ubuntu 16.04		LUKMINERPHI v0.3.1	215	Monero	Cryptonight	2770	$ 0.23	$ 6.82	-	$ -12.38
+CPU	INTEL	2X INTEL XEON CPU E5-2699 V4 @ 2.20GHZ		-	-	Ubuntu 16.10		XMR-STAK-CPU	145	Monero	Cryptonight	1910	$ 0.16	$ 4.70	-	$ -8.25
+CPU	INTEL	XEON E5-2686 V3 (DUAL)		-	-	Windows 8.1 x64		XMR-STAK-CPU	120	Monero	Cryptonight	1560	$ 0.13	$ 3.84	-	$ -6.87
+CPU	INTEL	2x XEON E5-2699 V4 @ 2.20GHZ		-	-	Ubuntu 16.04		YAM	145	Monero	Cryptonight	1500	$ 0.12	$ 3.69	-	$ -9.26
+CPU	INTEL	1X E7-8890 V4		-	-	Ubuntu 16.10		CPU-MULTI-MINING-BY-WOLF	165	Monero	Cryptonight	1483	$ 0.12	$ 3.65	-	$ -11.08
+CPU	AMD	RYZEN THREADRIPPER 1950X		-	-	Windows 7		XMRCGPU	180	Monero	Cryptonight	1470	$ 0.12	$ 3.62	-	$ -12.45
+CPU	AMD	RYZEN Threadreaper 1950 X		1000	1100	Windows 10 pro			180	Monero	Cryptonight	1422	$ 0.12	$ 3.50	-	$ -12.57
+CPU	AMD	RYZEN THREADRIPPER 1950X		-	-	Windows 10		XMR-STAK-CPU	180	Monero	Cryptonight	1280	$ 0.11	$ 3.15	-	$ -12.92
+CPU	AMD	RYZEN THREADRIPPER 1950X @ 3.9 GHZ		-	-	Windows 10		XMR-STAK-CPU	180	Monero	Cryptonight	1265	$ 0.10	$ 3.11	-	$ -12.96
+CPU	INTEL	XEON E5-2686 V3 (DUAL)		-	-	Windows 8.1 x64		MONEROD	120	Monero	Cryptonight	1175	$ 0.10	$ 2.89	-	$ -7.82
+CPU	INTEL	2x CPU E5-2658 V3 @ 2.20GHZ		-	-	Ubunt 16.04		YAM	105	Monero	Cryptonight	1160	$ 0.10	$ 2.86	-	$ -6.51
+CPU	INTEL	2X XEON E5-2650V4		-	-	Ubuntu 14.04		XMRIG	105	Monero	Cryptonight	1150	$ 0.09	$ 2.83	-	$ -6.54
+CPU	AMD	Ryzen Threadripper 1950x		-	-	Windows 10		XMR-STAK-CPU	96	Monero	Cryptonight	1120	$ 0.09	$ 2.76	-	$ -5.81
+CPU	INTEL	INTEL XEON E5-2690 V4		-	-	Centos 7		XMR-STAK-CPU git	135	Monero	Cryptonight	1100	$ 0.09	$ 2.71	-	$ -9.34
+CPU	INTEL	DUAL E5-2660V2		-	-	Windows 10		XMRig	95	Monero	Cryptonight	1030	$ 0.08	$ 2.54	-	$ -5.94
+CPU	INTEL	R720 INTEL XEON E5-2690 0 @ 2.9 X2		-	-	Ubuntu 17.04		XMR-STAK-CPU-NOTLS	135	Monero	Cryptonight	1032	$ 0.08	$ 2.54	-	$ -9.51
+CPU	INTEL	DUAL XEON E5-2698 V4 64GB RAM		-	-	Windows 10		MINERGATE	270	Monero	Cryptonight	1021	$ 0.08	$ 2.51	-	$ -21.60
+CPU	INTEL	R720 INTEL XEON E5-2690 0 @ 2.9 X2		-	-	Windows Server 2008 R2		XMR-STAK-CPU-NOTLS	135	Monero	Cryptonight	1012	$ 0.08	$ 2.49	-	$ -9.56
+CPU	AMD	OPTERON 6276 X2		-	-	Windows 7 x64		CLAYMORE 9.6	230	Monero	Cryptonight	1003	$ 0.08	$ 2.47	-	$ -18.06
+CPU	INTEL	INTEL(R) XEON(R) CPU E5-2648L V3 @ 1.80GHZ (2 PIECES)		-	-	Ubuntu 16.04		YAM	75	Monero	Cryptonight	991	$ 0.08	$ 2.44	-	$ -4.26
+CPU	INTEL	DUAL XEON E5-2670 V2 (10 THREAD PER CPU)		-	-	Freenas 11		MINERGATE	115	Monero	Cryptonight	978	$ 0.08	$ 2.41	-	$ -7.86
+CPU	AMD	2X AMD OPTERON 6276		-	-	Windows 10		XMR-STAK-CPU	115	Monero	Cryptonight	970	$ 0.08	$ 2.39	-	$ -7.88
+CPU	INTEL	2X XEON E5-2640 V4		-	-	Ubuntu 16.04		XMR-STAK-CPU	90	Monero	Cryptonight	972	$ 0.08	$ 2.39	-	$ -5.65
+CPU	INTEL	INTEL i7 5960X		-	-	Windows 10		XmrCgpu.com	140	Monero	Cryptonight	860	$ 0.07	$ 2.12	-	$ -10.38
+CPU	AMD	RYZEN 7 1700		-	-	Windows 7		XMR CGPU dual miner	66	Monero	Cryptonight	820	$ 0.07	$ 2.02	-	$ -3.87
+CPU	INTEL	INTEL XEON E5-2640 V3 @ 2.60GHZ		-	-	Ubuntu 14.04		WOLF CPU MINER	144	Monero	Cryptonight	795	$ 0.07	$ 1.96	-	$ -10.90
+CPU	INTEL	INTEL XEON E5-2640 V3 @ 2.60GHZ		-	-	Ubuntu 14.04		HMAGE CPU MINER	144	Monero	Cryptonight	760	$ 0.06	$ 1.87	-	$ -10.99
+CPU	INTEL	INTEL I7 5960X @ 4.6GHZ		-	-	Windows 10		CLAYMORE CRYPTONOTE V3.5 BETA	140	Monero	Cryptonight	750	$ 0.06	$ 1.85	-	$ -10.65
+CPU	AMD	RYZEN 7 1700 3.8 ghz		-	-	Windows 10		XMRcgpu combined miner	75	Monero	Cryptonight	711	$ 0.06	$ 1.75	-	$ -4.95
+CPU	AMD	RYZEN 5 1600		-	-	Windows 10	6-cores	XMR cgpu	65	Monero	Cryptonight	680	$ 0.06	$ 1.67	-	$ -4.13
+CPU	INTEL	2X INTEL XEON E5-2660 8-CORE @ 2.2 GHZ, 20 MB L3 CACHE		-	-	Debian 8		XMR-STAK-CPU 1.3.0	95	Monero	Cryptonight	660	$ 0.05	$ 1.62	-	$ -6.86
+CPU	INTEL	INTEL(R) XEON(R) CPU E5-2680 V4 @ 2.40GHZ		-	-	Ubuntu 16.04		XMR-STAK-CPU V1.4.1-DEV	120	Monero	Cryptonight	640	$ 0.05	$ 1.58	-	$ -9.13
+CPU	AMD	RYZEN 7 1700X 3875MHZ		-	-	Windows 10		XMR-STAK-CPU v1 build	66	Monero	Cryptonight	638	$ 0.05	$ 1.57	-	$ -4.32
+CPU	AMD	RYZEN 7 1700@3.8GHZ		-	-	Windows 10		XMR-STAK-CPU	75	Monero	Cryptonight	626	$ 0.05	$ 1.54	-	$ -5.16
+CPU	AMD	Ryzen 7 2700		-	-	Windows 10		XMR STAK CPU	105	Monero	Cryptonight	620	$ 0.05	$ 1.53	-	$ -7.84
+CPU	AMD	Ryzen Threadripper 1950x		-	-	Windows 10		XMR-STAK-CPU	96	Sumokoin	Cryptonight	1120	$ 0.05	$ 1.53	-	$ -7.04
+CPU	AMD	AMD RYZEN 7 1700		-	-	Windows 10		XMR- STAK-CPU	60	Monero	Cryptonight	620	$ 0.05	$ 1.53	-	$ -3.83
+CPU	AMD	RYZEN 1800X (OC TO 3,9GHZ)		-	-	Windows 10		XMR-STAK-CPU	95	Monero	Cryptonight	620	$ 0.05	$ 1.53	-	$ -6.95
+CPU	AMD	RYZEN 7 1700		-	-	Windows 10		CLAYMORE 3.5	125	Monero	Cryptonight	615	$ 0.05	$ 1.51	-	$ -9.65
+CPU	AMD	AMD RYZEN-7 1700 (@3700 MHZ)		-	-	Windows 10		XMR-STAK-CPU	95	Monero	Cryptonight	605	$ 0.05	$ 1.49	-	$ -6.99
+CPU	INTEL	INTEL(R) XEON(R) CPU E5-2648L 0 @ 1.80GHZ 2X		-	-	Ubuntu 16.04		YAM	70	Monero	Cryptonight	580	$ 0.05	$ 1.43	-	$ -4.82
+CPU	AMD	AMD RYZEN 1700		-	-	Windows 10		XMR-STAK-CPU	51	Monero	Cryptonight	570	$ 0.05	$ 1.40	-	$ -3.15
+CPU	INTEL	i7-8250u		1	-	Windows 7 x64		www.xmrcgpu.com	15	Monero	Cryptonight	550	$ 0.05	$ 1.35	-	$ 0.01
+CPU	INTEL	2X E5-2620V3@2.28GHZ		-	-	Windows Server 2008 R2		XMR-STAK-CPU	95	Monero	Cryptonight	550	$ 0.05	$ 1.35	-	$ -7.13
+CPU	AMD	RYZEN 7 1700X (STOCK)		-	-	DEBIAN 9		XMRIG	95	Monero	Cryptonight	550	$ 0.05	$ 1.35	-	$ -7.13
+CPU	AMD	Ryzen 7 1800X		-	-	Ubuntu 16.04		cpuminer-multi	95	Monero	Cryptonight	549	$ 0.05	$ 1.35	-	$ -7.13
+CPU	AMD	RYZEN 5 1600		-	-	DEBIAN 9	8 cores (6xprimary + 2xlogical)	XMR-STAK-CPU	65	Monero	Cryptonight	527	$ 0.04	$ 1.30	-	$ -4.50
+CPU	INTEL	2X XEON X5687		-	-	Ubuntu 16.10		XMR-STAK-CPU	240	Monero	Cryptonight	515	$ 0.04	$ 1.27	-	$ -20.16
+CPU	INTEL	2X INTEL XEON X5690		-	-	Ubuntu 16.04		XMR-STAK-CPU	260	Monero	Cryptonight	510	$ 0.04	$ 1.26	-	$ -21.95
+CPU	AMD	RYZEN 7 1700 @ 3.2GHZ		-	-	Windows 10		XMR-STAK-CPU	65	Monero	Cryptonight	513	$ 0.04	$ 1.26	-	$ -4.54
+CPU	AMD	RYZEN 1700 (3.7GHZ OC)		-	-	Windows 10		XMR-STAK-CPU	95	Monero	Cryptonight	506	$ 0.04	$ 1.25	-	$ -7.23
+CPU	AMD	AMD RYZEN 5 1600 + 2400MHZ RAM		-	-	Ubuntu 16.04	8 threads, all low_power=false, no prefetch=true. affine to 1, 3, 4,	XMR-STAK-CPU	65	Monero	Cryptonight	503	$ 0.04	$ 1.24	-	$ -4.56
+CPU	INTEL	2X E5 2620V3 @ 2.26GHZ		-	-	Windows Server 2008 R2		XMR-STAK-CPU	85	Monero	Cryptonight	502	$ 0.04	$ 1.24	-	$ -6.35
+CPU	INTEL	E5-2670 V3 QS@2540MHZ 59WATT USAGE		-	-	Windows 8.1 x64		XMR-STAK-CPU v1 build	115	Monero	Cryptonight	504	$ 0.04	$ 1.24	-	$ -9.03
+CPU	INTEL	E5-2670 V3 QS@2540MHZ 59WATT USAGE		-	-	Windows 8.1 x64		XMR-STAK-CPU v1 build	115	Monero	Cryptonight	504	$ 0.04	$ 1.24	-	$ -9.03
+CPU	INTEL	I7-7900X		-	-	Windows 10		XMRig Miner	123	Monero	Cryptonight	498	$ 0.04	$ 1.23	-	$ -9.75
+CPU	INTEL	2X XEON E5-2660		-	-	Windows 10		MINERGATE CONSOLE MINER WINDOWS X64	80	Monero	Cryptonight	500	$ 0.04	$ 1.23	-	$ -5.91
+CPU	INTEL	2X INTEL XEON PROCESSOR E5-2440		-	-	Windows 10		YAM	95	Monero	Cryptonight	497	$ 0.04	$ 1.22	-	$ -7.26
+CPU	INTEL	INTEL XEON E5-2620 X2		-	-	DEBIAN 9		XMRIG	95	Monero	Cryptonight	490	$ 0.04	$ 1.21	-	$ -7.27
+CPU	AMD	Ryzen 7 1700		-	-	Arch Linux		cpuminer-multi	65	Monero	Cryptonight	489	$ 0.04	$ 1.20	-	$ -4.60
+CPU	INTEL	4 * XEON-X7550-18M-CACHE-2.00-GHZ		-	-	Windows Server 2008 R2		XMR-STAK-CPU	500	Monero	Cryptonight	480	$ 0.04	$ 1.18	-	$ -43.46
+CPU	INTEL	XEON X5672 (DUAL)		-	-	Windows 10		XMR-STAK-CPU	95	Monero	Cryptonight	480	$ 0.04	$ 1.18	-	$ -7.30
+CPU	AMD	RYZEN 5 1600 - OVERCLOCKED TO 3.7		-	-	Ubuntu 16.04		CPUMINER-MULTI	70	Monero	Cryptonight	470	$ 0.04	$ 1.16	-	$ -5.09
+CPU	AMD	FX8320E@4,5GHZ		-	-	Windows 10		XMR-STAK-CPU-1.5	125	Monero	Cryptonight	470	$ 0.04	$ 1.16	-	$ -10.00
+CPU	AMD	AMD FX-8300		-	-	Windows 10		xmr CGPU	85	Monero	Cryptonight	462	$ 0.04	$ 1.14	-	$ -6.45
+CPU	INTEL	Intel i7 7700K		-	-	Windows 7 x64			44	Monero	Cryptonight	455	$ 0.04	$ 1.12	-	$ -2.81
+CPU	AMD	AMD RYZEN 5 1600		-	-	Ubuntu 16.04		XMR-STAK-CPU	65	Monero	Cryptonight	450	$ 0.04	$ 1.11	-	$ -4.69
+CPU	INTEL	E5-2670 V3 QS@2540MHZ 68WATT USAGE		-	-	Windows 8.1 x64		XMR-STAK-CPU v1 build	115	Monero	Cryptonight	445	$ 0.04	$ 1.10	-	$ -9.17
+CPU	INTEL	INTEL XEON E5-2670		-	-	Windows 8		YAM 7V	115	Monero	Cryptonight	443	$ 0.04	$ 1.09	-	$ -9.18
+CPU	INTEL	INTEL E5 2660 V1		-	-	Ubuntu 17.04		XMR-STAK-CPU	95	Monero	Cryptonight	433	$ 0.04	$ 1.07	-	$ -7.41
+CPU	AMD	RYZEN 5 1600 - STOCK		-	-	Windows 10		XMR STAK CPU	65	Monero	Cryptonight	436	$ 0.04	$ 1.07	-	$ -4.73
+CPU	AMD	RYZEN 5 1500X @3.5GHZ		-	-	Windows 10		XMR STAK CPU	65	Monero	Cryptonight	425	$ 0.03	$ 1.05	-	$ -4.75
+CPU	AMD	RYZEN 5 1500X @3.5GHZ		-	-	Windows 10		XMR STAK CPU	65	Monero	Cryptonight	425	$ 0.03	$ 1.05	-	$ -4.75

@@ -1,0 +1,16 @@
+<persistence version="1.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+    <persistence-unit name="pu-cco2" transaction-type="RESOURCE_LOCAL">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <properties>
+            <!--property name="hibernate.connection.driver_class" value="org.h2.Driver" /-->
+            <!--property name="hibernate.connection.url" value="jdbc:h2:tcp://localhost/~/gdw-db" /-->
+            <!--property name = "hibernate.show_sql" value = "true" /-->
+            <property name="hibernate.connection.driver_class" value="org.postgresql.Driver" />
+            <property name="hibernate.connection.url" value="jdbc:postgresql://localhost/cco2" />
+            <property name="hibernate.connection.user" value="ucco2" />
+            <property name="hibernate.connection.password" value="pcco2" />
+            <!-- Utiliser le fichier cco2create.sql pour créer les tables -->
+            <property name="hibernate.hbm2ddl.auto" value="validate" />
+        </properties>
+    </persistence-unit>
+</persistence>

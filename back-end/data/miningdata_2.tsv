@@ -1,0 +1,100 @@
+AMD	INTEL	2X INTEL XEON E5-2660 V1 8-CORE @ 2.2 GHZ, 20 MB L3 CACHE		-	-	Debian 8		XMR-STAK-CPU 1.3.0	95	Monero	Cryptonight	825	$ 0.07	$ 2.03	-	$ -6.45
+AMD	MSI	R9 390		1040	1500	Windows 10		Claymore	258	Monero	Cryptonight	805	$ 0.07	$ 1.98	-	$ -21.05
+AMD	SAPPHIRE	Nitro+ RX VEGA 56 8GB HBM2 UNSTABLE		1590	945	Windows 10		Claymore v12.6	255	Zcash	Equihash	480	$ 0.06	$ 1.92	-	$ -20.85
+AMD	SAPPHIRE	PULSE RX 570 4 GB DDR5		-	-	Ubuntu 17.04		XMR-STAK-AMD on simplemine.net	150	Monero	Cryptonight	773	$ 0.06	$ 1.90	-	$ -11.49
+AMD	MSI	RX VEGA 56 8GB		1615	1000	Windows 10	Crimson 4.4.0 Beta 19	Claymore	300	Zcash	Equihash	470	$ 0.06	$ 1.88	-	$ -24.90
+AMD	SAPPHIRE	Nitro+ RX VEGA 56 8GB HBM2		1590	800	Windows 10		Claymore v12.6	220	Zcash	Equihash	464	$ 0.06	$ 1.85	-	$ -17.79
+AMD	ASUS	Strix RX 580 8GB		1360	2000	Windows 10	Crimson 17.10.3	Claymore	217	Monero	Cryptonight	720	$ 0.06	$ 1.77	-	$ -17.60
+AMD	SAPPHIRE	SAPPHIRE NITRO R9 FURY		-	-	Ubuntu 16.04		CLAYMORE 11.1	260	Zcash	Equihash	420	$ 0.06	$ 1.68	-	$ -21.53
+AMD	SAPPHIRE	SAPPHIRE NITRO R9 FURY		1050	1000	Ubuntu 16.04		Claymore 11.1	260	Zcash	Equihash	420	$ 0.06	$ 1.68	-	$ -21.53
+AMD	GIGABYTE	GIGABYTE GTX 1070		-	-	Windows 10		EWBF'S CUDA MINER 0.2.0b	150	Zcash	Equihash	410	$ 0.05	$ 1.64	-	$ -11.75
+AMD	AMD	RX 580 4GB OC -30 mV		1289	2033	Windows 10	17.9.3	Claymore	160	Monero	Cryptonight	645	$ 0.05	$ 1.59	-	$ -12.69
+AMD	POWERCOLOR	RX 480 OC		1365	1750	Windows 10		Claymore	165	Monero	Cryptonight	644	$ 0.05	$ 1.59	-	$ -13.14
+AMD	POWERCOLOR	RX 480 stock		1266	1750	Windows 10		Claymore	135	Monero	Cryptonight	636	$ 0.05	$ 1.57	-	$ -10.48
+AMD	MSI	MSI ARMOR RADEON RX580		-	-	Windows 10		CLAYMORE CRYPTONOTE GPU MINER V9.7 BETA	185	Monero	Cryptonight	634	$ 0.05	$ 1.56	-	$ -14.96
+AMD	SAPPHIRE	RX 580 NITRO+ HYNIX 4GB		-	-	Ethos		ETHOS MONERO MINER	75	Monero	Cryptonight	629	$ 0.05	$ 1.55	-	$ -5.15
+AMD	AMD	RYZEN 7 1700		-	-	Windows 10		XMR-STAK-CPU	78	Monero	Cryptonight	610	$ 0.05	$ 1.50	-	$ -5.46
+AMD	ASUS	RX 570 expedition		1255	1750	Windows 10	17.7	Claymore CryptoNote 9.7 Beta	150	Monero	Cryptonight	578	$ 0.05	$ 1.42	-	$ -11.97
+AMD	AMD	ATI RADEON R9 390		-	-	Windows 7 x64		CLAYMORE'S ZCASH AMD GPU MINER v11.1	285	Zcash	Equihash	334	$ 0.04	$ 1.33	-	$ -24.11
+AMD	SAPPHIRE	RX 470 Nitro		1050	1850	Windows 10	Crimson 16.11.5	BBT Multiminer	150	Monero	Cryptonight	520	$ 0.04	$ 1.28	-	$ -12.11
+AMD	GIGABYTE	GYGABYTE 7950		-	-	Windows 10		CLAYMORE V12.4	180	Zcash	Equihash	320	$ 0.04	$ 1.28	-	$ -14.79
+AMD	SAPPHIRE	Vapor-x 7970 OC		1180	1500			Claymore	182	Monero	Cryptonight	501	$ 0.04	$ 1.23	-	$ -15.02
+AMD	ASUS	R7 370 Strixx Stock		1175	1400	Windows 10		Claymore	131	Monero	Cryptonight	494	$ 0.04	$ 1.22	-	$ -10.48
+AMD	XFX	7970 OC		1125	1375	Windows 10		Claymore	165	Monero	Cryptonight	493	$ 0.04	$ 1.21	-	$ -13.52
+AMD	SAPPHIRE	HD 7970 Vapor-X		1050	1500	Windows 10		Claymore	178	Monero	Cryptonight	482	$ 0.04	$ 1.19	-	$ -14.70
+AMD	GIGABYTE	RX 550		1250	1825	Windows 10		XMR Stak	49	Monero	Cryptonight	475	$ 0.04	$ 1.17	-	$ -3.20
+AMD	MSI	R9 390		1130	1540	Ethos		Claymore	260	Zcash	Equihash	290	$ 0.04	$ 1.16	-	$ -22.05
+AMD	AMD	sapphire RX 570 Pulse 4GB - moded bios + patch		1284	1750	Windows 10	Radeon Software Version 18.2.3	Claymore's ZCash AMD GPU Miner. 12.6	116	Zcash	Equihash	287	$ 0.04	$ 1.15	-	$ -9.21
+AMD	ASUS	R7 370 Strixx Stock		1050	1400	Windows 10		Claymore	127	Monero	Cryptonight	462	$ 0.04	$ 1.14	-	$ -10.20
+AMD	XFX	7970 stock		925	1375	Windows 10		Claymore	153	Monero	Cryptonight	464	$ 0.04	$ 1.14	-	$ -12.52
+AMD	MSI	MSI R7950		-	-	Windows 10		CLAYMORE V12.4	150	Zcash	Equihash	280	$ 0.04	$ 1.12	-	$ -12.27
+AMD	MSI	MSI RADEON RX 470 GAMING		-	-	Ethos		CLAYMORE'S ZCASH AMD GPU MINER V12.4	130	Zcash	Equihash	278	$ 0.04	$ 1.11	-	$ -10.50
+AMD	AMD	Gigabyte HD 7950		1250	800	Windows 10		Claymore	140	Zcash	Equihash	277	$ 0.04	$ 1.11	-	$ -11.39
+AMD	SAPPHIRE	RX 470 nitro -60mV		1150	1950	Windows 10			72	Zcash	Equihash	275	$ 0.04	$ 1.10	-	$ -5.33
+AMD	AMD	OEM R9 370 OC		975	1400	Windows 10		Claymore	126	Monero	Cryptonight	446	$ 0.04	$ 1.10	-	$ -10.15
+AMD	ASUS	RX 570 ROG Strix 4Gb Gaming OC Edition GDDR5		1112	000	Windows 10	17.5.1	Claymore	150	Zcash	Equihash	267	$ 0.04	$ 1.07	-	$ -12.32
+AMD	AMD	AMD Radeon HD 6750M		600	800	Windows 10	15.201.1151.1008-151104a-296217E	MinerGate	100	Ethereum	Ethash	283000	$ 0.04	$ 1.06	-	$ -7.87
+AMD	XFX	XFX RADEON RS RX 480 8 GB		1288	8000	Ubuntu 16.04		Claymore 11.1	150	Zcash	Equihash	260	$ 0.03	$ 1.04	-	$ -12.35
+AMD	HIS	HIS RX 480		-	-	Windows 7 x64		CLAYMORE 9.2 AND CATALYST 16.12.2	150	Zcash	Equihash	238	$ 0.03	$ 0.95	-	$ -12.44
+AMD	SAPPHIRE	SAPPHIRE 7950 DUAL-X		-	-	Windows 7 x64		CLAYMORE 12.4	180	Zcash	Equihash	210	$ 0.03	$ 0.84	-	$ -15.23
+AMD	SAPPHIRE	SAPPHIRE 7950 DUAL-X 3GB		-	-	Windows 7 x64		Claymore 12.4	180	Zcash	Equihash	210	$ 0.03	$ 0.84	-	$ -15.23
+AMD	GIGABYTE	RX 550		1250	1825	Windows 10		Claymore	50	Zcash	Equihash	180	$ 0.02	$ 0.72	-	$ -3.74
+AMD	XFX	R9 380 2GB		990	-	Windows 7	17.7.5	nicehash	180	Zcash	Equihash	180	$ 0.02	$ 0.72	-	$ -15.35
+AMD	ASUS	ASUS RADEON RX 460 (ASUS DUAL-RX460-2G)		-	-	Windows 7 x64		CLAYMORE'S ZCASH AMD GPU MINER V12.4	46	Zcash	Equihash	117	$ 0.02	$ 0.47	-	$ -3.64
+AMD	ASUS	RX 460 Bios modded		1250	2000	Windows 10	16.12.2	Claymore	166	Zcash	Equihash	99	$ 0.01	$ 0.40	-	$ -14.42
+AMD	INTEL	2X INTEL XEON E5 2699V3@2.3GHZ (2X18 CORES, 2X45MB CACHE)		-	-	Ubuntu 16.04		LUKMINER	145	Bitcoin	SHA-256	1540	$ 0.00	$ 0.00	-	$ -12.95
+AMD	INTEL	2 X 22-CORE INTEL E5-2699V4 2.1GHZ (BETA MODEL)		-	-	Centos 7		XMR-STAK-CPU	330	Bitcoin	SHA-256	1590	$ 0.00	$ 0.00	-	$ -29.46
+AMD	HIS	HIS RX 480		1288	8000	Windows 7 x64		CLAYMORE v9.2	150	Ethereum	Ethash	238	$ 0.00	$ 0.00	-	$ -13.39
+AMD	AMD			-	-				0	Auroracoin	Scrypt	0	$ 0.00	$ 0.00	nan	$ 0.00
+ASICS	DAYUN	Zig Z1+		-	-				1200	Vertcoin	Verthash	7200000000	$ 19621.39	$ 588641.73	6.00	$ 588534.59
+ASICS	DAYUN	Zig Z1+		-	-				1200	Verge	Scrypt	7200000000	$ 537.51	$ 16125.29	6.00	$ 16018.15
+ASICS	MICROBT	WHATSMINER D1		-	-				2200	Decred	Blake-256	44000000000000	$ 250.45	$ 7513.63	20000.00	$ 7317.21
+ASICS	INNOSILICON	A9 ZMaster		-	-	Innosilicon Firmware			650	ZenCash	Equihash	50000	$ 232.58	$ 6977.34	-	$ 6919.31
+ASICS	BITTECH	STRONGU STU-U1		-	-				1600	Decred	Blake-256	11000000000000	$ 62.61	$ 1878.41	6875.00	$ 1735.56
+ASICS	BITTECH	NS		-	-				1250	Orbitcoin	Neoscrypt	63200000	$ 54.77	$ 1642.95	-	$ 1531.35
+ASICS	MICROBT	Whatsminer M30S+		-	-				3400	Bitcoin	SHA-256	112000000000000	$ 44.69	$ 1340.80	32941.18	$ 1037.25
+ASICS	BITMAIN	Antminer S19 PRO		-	-				3250	Bitcoin	SHA-256	110000000000000	$ 43.90	$ 1316.86	33846.15	$ 1026.70
+ASICS	ASICS	SP50		-	-	Bitmain Firmware			16570	Bitcoin	SHA-256	110000000000000	$ 43.90	$ 1316.86	6638.50	$ -162.51
+ASICS	MICROBT	Whatsminer M30S++		-	-				3400	Bitcoin	SHA-256	100000000000000	$ 39.90	$ 1197.15	29411.76	$ 893.60
+ASICS	IBELINK	iBeLink DSM7T		-	-				2100	Decred	Blake-256	7000000000000	$ 39.85	$ 1195.35	3333.33	$ 1007.86
+ASICS	BITMAIN	Antminer R4		-	-	Bitmain Firmware			16570	Bitcoin	SHA-256	87000000000000	$ 34.72	$ 1041.52	5250.45	$ -437.85
+ASICS	ASICS	Ibelink DCR		-	-				2100	Decred	Blake-256	6000000000000	$ 34.15	$ 1024.59	2857.14	$ 837.10
+ASICS	BITMAIN	Antminer E3 Batch 1		-	-	Bitmain Firmware			800	Ethereum	Ethash	180000000	$ 22.50	$ 675.02	0.23	$ 603.60
+ASICS	ASICMINER	Zeon 160K		-	-				2200	Zcash	Equihash	160000	$ 21.30	$ 639.02	-	$ 442.60
+ASICS	INNOSILICON	S11 SiaMaster		-	-	Innosilicon Firmware			1380	Siacoin	Blake-256	3830000000000	$ 19.78	$ 593.32	2775.36	$ 470.11
+ASICS	BAIKAL	Miner BK-N240		-	-				630	Monero	Cryptonight	240000	$ 19.70	$ 590.91	-	$ 534.66
+ASICS	BITMAIN	Antminer X3		-	-	Bitmain Firmware			550	Monero	Cryptonight	220000	$ 18.06	$ 541.67	-	$ 492.57
+ASICS	EBANG	EBIT E11++		-	-				1980	Bitcoin	SHA-256	44000000000000	$ 17.56	$ 526.74	22222.22	$ 349.97
+ASICS	EBANG	EBIT E11+		-	-				2035	Bitcoin	SHA-256	37000000000000	$ 14.76	$ 442.94	18181.82	$ 261.26
+ASICS	BITTECH	One S		-	-				2600	Bitcoin	SHA-256	36000000000000	$ 14.37	$ 430.97	13846.15	$ 198.84
+ASICS	PANGOLIN	Pangolin Whatsminer M10		-	-				2145	Bitcoin	SHA-256	33000000000000	$ 13.17	$ 395.06	15384.62	$ 203.55
+ASICS	INNOSILICON	D9 DecredMaster		-	-	Innosilicon Firmware			900	Decred	Blake-256	2100000000000	$ 11.95	$ 358.61	2333.33	$ 278.26
+ASICS	BITTECH	L-One		-	-				2600	Auroracoin	Scrypt	2300000000	$ 11.79	$ 353.77	0.88	$ 121.64
+ASICS	INNOSILICON	A5+ DashMaster		-	-	Innosilicon Firmware			1500	Dash	X11	65000000000	$ 11.51	$ 345.40	43.33	$ 211.48
+ASICS	BITTECH	SHA256 MINER		-	-				2200	Bitcoin	SHA-256	28000000000000	$ 11.17	$ 335.20	12727.27	$ 138.78
+ASICS	INNOSILICON	T2T Turbo		-	-				1980	Bitcoin	SHA-256	24000000000000	$ 9.58	$ 287.32	12121.21	$ 110.55
+ASICS	INNOSILICON	A5 DashMaster		-	-	Innosilicon Firmware			1250	Dash	X11	38000000000	$ 6.73	$ 201.93	30.40	$ 90.33
+ASICS	ASICMINER	Ebang Ebit E9.3		-	-				1760	Bitcoin	SHA-256	16000000000000	$ 6.38	$ 191.54	9090.91	$ 34.41
+ASICS	BITTECH	One Mini		-	-				1150	Bitcoin	SHA-256	16000000000000	$ 6.38	$ 191.54	13913.04	$ 88.87
+ASICS	ASICS	DragonMint 16T		-	-				1205	Bitcoin	SHA-256	16000000000000	$ 6.38	$ 191.54	13278.01	$ 83.96
+ASICS	INNOSILICON	A6 LTCMaster		-	-	Innosilicon Firmware			1500	Litecoin	Scrypt	1230000000	$ 6.01	$ 180.36	0.82	$ 46.44
+ASICS	BITMAIN	Antminer S9i SHA256		-	-	Bitmain Firmware			1365	Bitcoin	SHA-256	14500000000000	$ 5.79	$ 173.59	10622.71	$ 51.72
+ASICS	BITMAIN	AntMiner S9 14T		-	-	Bitmain Firmware			1300	Bitcoin	SHA-256	14000000000000	$ 5.59	$ 167.60	10769.23	$ 51.54
+ASICS	BITMAIN	AntMiner S9		-	-	Bitmain Firmware			1375	Bitcoin	SHA-256	14000000000000	$ 5.59	$ 167.60	10181.82	$ 44.84
+ASICS	ASICMINER	Ebang E9i		-	-				1400	Bitcoin	SHA-256	13500000000000	$ 5.39	$ 161.61	9642.86	$ 36.62
+ASICS	BITMAIN	T9 Antminer		-	-				1576	Bitcoin	SHA-256	12500000000000	$ 4.99	$ 149.64	7931.47	$ 8.93
+ASICS	BAIKAL	BK G28		-	-				1300	Dash	X11	28000000000	$ 4.96	$ 148.79	21.54	$ 32.73
+ASICS	ASICS	Ebang E9.2 BTC		-	-				110	Bitcoin	SHA-256	12000000000000	$ 4.79	$ 143.66	109090.91	$ 133.84
+ASICS	BITMAIN	Antminer A3		-	-	Bitmain Firmware			1186	Siacoin	Blake-256	815000000000	$ 4.21	$ 126.25	687.18	$ 20.36
+ASICS	ASICS	iBeLink X11 Miner 22 GH/s		-	-				810	Dash	X11	22000000000	$ 3.90	$ 116.91	27.16	$ 44.59
+ASICS	BITMAIN	Antminer R4 Mute		-	-	Bitmain Firmware			800	Bitcoin	SHA-256	8000000000000	$ 3.19	$ 95.77	10000.00	$ 24.35
+ASICS	ASICS	Pinidea ASIC X11 Miner DR-100		-	-				820	Dash	X11	17000000000	$ 3.01	$ 90.34	20.73	$ 17.13
+ASICS	AVALON	Bitcoin Miner Avalon 741 7.3TH		-	-				850	Bitcoin	SHA-256	7300000000000	$ 2.91	$ 87.39	8588.24	$ 11.50
+ASICS	BITMAIN	D3 Antminer		-	-				1200	Dash	X11	15000000000	$ 2.66	$ 79.71	12.50	$ -27.43
+ASICS	EBANG	Ebit E9 Miner 6.5T Bitcoin		-	-				140	Bitcoin	SHA-256	6300000000000	$ 2.51	$ 75.42	45000.00	$ 62.92
+ASICS	BITMAIN	L3+ Antminer		-	-				800	Litecoin	Scrypt	504000000	$ 2.46	$ 73.90	0.63	$ 2.48
+ASICS	AVALON	Bitcoin Miner Avalon 721 6TH		-	-		-	-	850	Bitcoin	SHA-256	6000000000000	$ 2.39	$ 71.83	7058.82	$ -4.06
+ASICS	BITMAIN	AntMiner S7		-	-	Bitmain Firmware			1293	Bitcoin	SHA-256	4730000000000	$ 1.89	$ 56.63	3658.16	$ -58.81
+ASICS	BAIKAL	Giant X10 DASH Coin Miner		-	-				800	Dash	X11	10000000000	$ 1.77	$ 53.14	12.50	$ -18.28
+ASICS	AVALON	Avalon 6		-	-				1050	Bitcoin	SHA-256	3500000000000	$ 1.40	$ 41.90	3333.33	$ -51.84
+ASICS	INNOSILICON	A4 Dominator		-	-			Innosilicon Firmware	1000	Litecoin	Scrypt	280000000	$ 1.37	$ 41.06	0.28	$ -48.222

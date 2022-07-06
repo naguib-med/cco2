@@ -1,0 +1,100 @@
+CPU	AMD	A10-6800K APU		-	-	Arch Linux		XMR-STAK-CPU	97	Monero	Cryptonight	198	$ 0.02	$ 0.49	-	$ -8.17
+CPU	INTEL	Xeon E3-1220 V2 @ 3.10GHz		-	-	Debian 8		cpuminer-multi	69	Monero	Cryptonight	169	$ 0.01	$ 0.42	-	$ -5.74
+CPU	INTEL	I7-2600 @ 3.40GHz		-	-	Debian 7		cpuminer-multi	95	Monero	Cryptonight	125	$ 0.01	$ 0.31	-	$ -8.17
+CPU	INTEL	INTEL I7 5960X (stock)		4	-	Windows 10 pro		xmrcgpu.com	130	Auroracoin	Scrypt	814	$ 0.00	$ 0.00	-	$ -11.61
+CPU	INTEL	Core i3 3220		3292	665	Windows 10 pro	CPU	Xanemine	20	Bitcoin	SHA-256	30000000	$ 0.00	$ 0.00	1.50	$ -1.79
+CPU	AMD	AMD FX-6100		-	-	Windows 10		CLAYMORE CPU MINER	95	Bitcoin	SHA-256	220	$ 0.00	$ 0.00	-	$ -8.48
+CPU	INTEL	INTEL I7-6700 (3.4GHZ-4.0GHZ)		-	-	Ubuntu 14.04		CPU-MINER	65	Bitcoin	SHA-256	230	$ 0.00	$ 0.00	-	$ -5.80
+CPU	INTEL	INTEL CORE I7-3930K @ 4.2 GHZ		-	-	Windows 7 x64		WOLF CPUMINER	135	Bitcoin	SHA-256	330	$ 0.00	$ 0.00	-	$ -12.05
+CPU	INTEL	INTEL XEON E5-2660 V0		-	-	Windows 7 x64		XMR-STAK-CPU // Idles at 69W but at 395+H/s from the wall pulls 137W.	137	Bitcoin	SHA-256	400	$ 0.00	$ 0.00	-	$ -12.23
+NVIDIA	ASUS	3090 RTX Strix		1095	10702	Windows 10	461.40	T-rex 0.19.9 cuda 11.1	328	Ravencoin	KawPow	45970000	$ 30.38	$ 911.53	0.14	$ 882.25
+NVIDIA	ASUS	RTX 3070		-	-			T-Rex 0.19.5	139	Ravencoin	KawPow	29000000	$ 19.17	$ 575.04	0.21	$ 562.63
+NVIDIA	GIGABYTE	3070		-	-	Windows 10		T rex 0.20	94	Ravencoin	KawPow	25000000	$ 16.52	$ 495.72	0.27	$ 487.33
+NVIDIA	ASUS	3090 RTX Strix		1095	10702	Windows 10	461.40	T-rex 0.19.9 cuda 11.1	327	Ethereum	Ethash	125250000	$ 15.66	$ 469.70	0.38	$ 440.51
+NVIDIA	MSI	RTX 3090		1575	1100	Windows 10	456.38	nicehash	300	Ethereum	Ethash	118486000	$ 14.81	$ 444.33	0.39	$ 417.55
+NVIDIA	GIGABYTE	Gigabyte Eagle 3080 OC 10 G		-300	1350	Windows 10	466.11	Nanominer	234	Ethereum	Ethash	99300000	$ 12.41	$ 372.38	0.42	$ 351.49
+NVIDIA	NVIDIA	RTX 3080		-	2400			Hive OS miner21	230	Ethereum	Ethash	99000000	$ 12.38	$ 371.26	0.43	$ 350.73
+NVIDIA	NVIDIA	Tesla V100 16GB HBM2		1530	877	Windows 10	385.54	BBT-multiminer	250	Ethereum	Ethash	94800000	$ 11.85	$ 355.51	0.38	$ 333.19
+NVIDIA	PNY	Nvidia RTX A5000 16 gb		-	1750				230	Ethereum	Ethash	93600000	$ 11.70	$ 351.01	0.41	$ 330.48
+NVIDIA	ASUS	3090 RTX Strix		1095	10702	Windows 10	461.40	T-rex 0.19.9 cuda 11.1	331	Verge	Scrypt	132850000	$ 9.92	$ 297.53	0.40	$ 267.98
+NVIDIA	NVIDIA	GTX TITAN V 12GB HBM2 (Overclocked)		1335	972	Windows 10	388.59	Claymore	238	Ethereum	Ethash	79000000	$ 9.88	$ 296.26	0.33	$ 275.01
+NVIDIA	NVIDIA	GTX TITAN V 12GB HBM2 (Stock)		1335	850	Windows 10	388.59	Claymore	213	Ethereum	Ethash	70000000	$ 8.75	$ 262.51	0.33	$ 243.49
+NVIDIA	GIGABYTE	CMP 30HX		990	7700	Windows 10	470.05	T-Rex 0.20.3	87	Ravencoin	KawPow	12100000	$ 8.00	$ 239.93	0.14	$ 232.16
+NVIDIA	ASUS	RTX 3070		-	-			Phoenix Miner 5.4C	125	Ethereum	Ethash	61300000	$ 7.66	$ 229.88	0.49	$ 218.72
+NVIDIA	MSI	RTX 3060 Ti		1140	8000			T-rex Miner 0.19.9	150	Ethereum	Ethash	60000000	$ 7.50	$ 225.01	0.40	$ 211.62
+NVIDIA	EVGA	1080 TI 11 GB		1700	5724	Windows 10	391.01	Claymore	275	Ethereum	Ethash	54000000	$ 6.75	$ 202.51	0.20	$ 177.96
+NVIDIA	NVIDIA	GTX TITAN V 12GB HBM2		1477	972	Windows 10	388.59	Claymore	250	Verge	Scrypt	88770000	$ 6.63	$ 198.81	0.36	$ 176.49
+NVIDIA	EVGA	1080 TI 11 GB		-	-	Windows 10		Claymore v11.6	275	Ethereum	Ethash	50000000	$ 6.25	$ 187.50	0.18	$ 162.95
+NVIDIA	ASUS	3090 RTX Strix		1095	10702	Windows 10	461.40	T-rex 0.19.9 cuda 11.1	319	Ethereum Classic	Ethash	120600000	$ 5.16	$ 154.85	0.38	$ 126.37
+NVIDIA	ASUS	3090 RTX Strix		1095	10702	Windows 10	461.40	T-rex 0.19.9 cuda 11.1	328	Vertcoin	Verthash	1830000	$ 4.99	$ 149.61	-	$ 120.33
+NVIDIA	ZOTAC	Geforce RTX 2070		-	-	Windows 10			140	Ethereum	Ethash	38500000	$ 4.81	$ 144.38	0.28	$ 131.88
+NVIDIA	EVGA	GeForce GTX 1080 TI FTW3		1974	5775	Windows 10	385.41	Claymore	185	Ethereum	Ethash	37360000	$ 4.67	$ 140.10	0.20	$ 123.58
+NVIDIA	ZOTAC	GTX 1070 Ti AMP		1680	4800	Windows 10	388.13 / Afterburner 4.4.0 Beta 20	BBT-multiminer-v5.6.2	140	Ethereum	Ethash	34495000	$ 4.31	$ 129.36	0.25	$ 116.86
+NVIDIA	AORUS	1080 Ti 11 Gb		-	-	Windows 10		Claymore v10.5	225	Ethereum	Ethash	4300000	$ 4.29	$ 128.63	0.15	$ 108.54
+NVIDIA	MSI	1080 Ti gaming X 11g		-	-		-	-	333	Ethereum	Ethash	33775000	$ 4.22	$ 126.66	0.10	$ 96.93
+NVIDIA	ZOTAC	GTX 1070 Ti AMP -60% power limit		1100	4600	Windows 10	388.13 / Afterburner 4.4.0 Beta 20	BBT-multiminer-v5.6.2	110	Ethereum	Ethash	32800000	$ 4.10	$ 123.00	0.30	$ 113.18
+NVIDIA	MSI	MSI GeForce GTX 1660 SUPER VENTUS XS OC 6GB		1050	2300	Ubuntu	460.67	Hiveos 0.6-204@210608	63	Ethereum	Ethash	32700000	$ 4.09	$ 122.63	0.52	$ 117.01
+NVIDIA	MSI	1070 TI 8GB		1645	4475	Windows 10	388.43	Claymore	250	Ethereum	Ethash	31900000	$ 3.99	$ 119.63	0.13	$ 97.31
+NVIDIA	MSI	MSI GTX 1070 TI 8Gb GDDR5 (Micron)		1442	4452	Windows 10	388.71	Claymore	145	Ethereum	Ethash	31557000	$ 3.94	$ 118.34	0.22	$ 105.39
+NVIDIA	MSI	GeForce GTX 1080 Ti		1480	1376	Windows 10			250	Ethereum	Ethash	31300000	$ 3.91	$ 117.38	0.13	$ 95.06
+NVIDIA	GIGABYTE	CMP 30HX		990	7700	Windows 10	470.05	T-Rex 0.20.3	75	Ethereum	Ethash	31150000	$ 3.89	$ 116.82	0.42	$ 110.12
+NVIDIA	MSI	GTX 1070 8GB		1873	4498	Windows 10	382.53	Claymore	349	Ethereum	Ethash	30800000	$ 3.85	$ 115.50	-	$ 84.34
+NVIDIA	ASUS	GTX 1070 TI Optimized		-	-	Windows 10	388.13	Nicehash v2.0.1.3	180	Ethereum	Ethash	30672000	$ 3.83	$ 115.02	0.17	$ 98.95
+NVIDIA	MSI	Geforce 1660 TI GDDR6		1550	6750	Windows 10		Claymore	90	Ethereum	Ethash	30300000	$ 3.79	$ 113.63	0.34	$ 105.59
+NVIDIA	NVIDIA	Tesla V100 16GB HBM2		1530	877	Windows 10	385.54	CC-miner	250	Verge	Scrypt	48450000	$ 3.62	$ 108.51	0.19	$ 86.19
+NVIDIA	NVIDIA	GeForce GTX 1070		1506	2002	Windows 10		Claymore	150	Ethereum	Ethash	27000000	$ 3.38	$ 101.25	0.18	$ 87.86
+NVIDIA	ASUS	P-106 6GB		1850	-	Windows 10	38.7.5	Claymore	150	Ethereum	Ethash	25400000	$ 3.18	$ 95.25	0.17	$ 81.86
+NVIDIA	ASUS	GTX 1070 TI (stock)		-	-	Windows 10	388.13	Nicehash v2.0.1.3	180	Ethereum	Ethash	24900000	$ 3.11	$ 93.38	0.14	$ 77.31
+NVIDIA	ASUS	ROG GTX 1060 6Gb GDDR5 SAMSUNG Memory - Over Clocked & Under Volted		1860	4704	Windows 10	385.41	Claymore 9.8	150	Ethereum	Ethash	24500000	$ 3.06	$ 91.88	0.16	$ 78.49
+NVIDIA	GIGABYTE	GeForce GTX 1060 3GB		1550	2002	Windows 10		Claymore 9.2	120	Ethereum	Ethash	24000000	$ 3.00	$ 90.00	0.20	$ 79.29
+NVIDIA	NVIDIA	GeForce GTX 1080		1251	1607	Windows 10		ccMiner	180	Ethereum	Ethash	23000000	$ 2.88	$ 86.25	0.13	$ 70.18
+NVIDIA	ZOTAC	ZOTAC GeForceÂ® GTX 1050 Ti Mini		1054	2227	Windows 10 pro	391.10	Claymore's Dual Ethereum Miner 11.0	56	Ethereum	Ethash	20000000	$ 2.50	$ 75.00	0.36	$ 70.00
+NVIDIA	ZOTAC	ZOTAC GeForceÂ® GTX 1050 Ti Mini		1054	2227	Windows 10 pro	391.10	Claymore's Dual Ethereum Miner 11.0	56	Ethereum	Ethash	20000000	$ 2.50	$ 75.00	0.36	$ 70.00
+NVIDIA	ASUS	ROG GTX 1060 6Gb GDDR5 SAMSUNG		2050	3898	Windows 10	385.41	Claymore	150	Ethereum	Ethash	19000000	$ 2.38	$ 71.25	0.13	$ 57.86
+NVIDIA	NVIDIA	GeForce GTX 1060 6GB		1744	2002	Windows 10		Claymore	120	Ethereum	Ethash	19000000	$ 2.38	$ 71.25	0.16	$ 60.54
+NVIDIA	NVIDIA	Tesla V100 16GB HBM2		1530	877	Windows 10	385.54	BBT-multiminer	250	Orbitcoin	Neoscrypt	2480000	$ 2.15	$ 64.47	-	$ 42.15
+NVIDIA	EVGA	GeForce GTX 970		1050	1753	Arch Linux		Claymore	140	Ethereum	Ethash	16000000	$ 2.00	$ 60.00	0.11	$ 47.50
+NVIDIA	NVIDIA	GeForce GTX 780Ti		875	1752	Windows 10		CUDAminer	250	Ethereum	Ethash	15000000	$ 1.88	$ 56.25	-	$ 33.93
+NVIDIA	NVIDIA	GeForce GTX 1050 Ti 4GB		1291	1752	Windows 10		Claymore	75	Ethereum	Ethash	12000000	$ 1.50	$ 45.00	0.16	$ 38.30
+NVIDIA	PNY	Quadro M4000 8GB		-	-	Windows 10		Claymore	300	Ethereum	Ethash	10000000	$ 1.25	$ 37.50	-	$ 10.72
+NVIDIA	EVGA	GeForce GTX TITAN X		1000	1753	Windows 10		Nicehash v2.0.1.5	168	FlorinCoin	Scrypt	33000000	$ 0.67	$ 20.21	0.20	$ 5.21
+NVIDIA	NVIDIA	MX150 (Laptop)		-	-	Windows 10		Nicehash v2.0	100	Ethereum	Ethash	5000000	$ 0.63	$ 18.75	-	$ 9.82
+NVIDIA	NVIDIA	GeForce GTX 750Ti		1020	1350	Windows 10		Nicehash	60	Ethereum	Ethash	5000000	$ 0.63	$ 18.75	-	$ 13.39
+NVIDIA	GIGABYTE	1080 TI 11 GB AORUS		-	-	Windows 10		STAK XMR Miner	146	Monero	Cryptonight	4700	$ 0.39	$ 11.57	-	$ -1.46
+NVIDIA	MSI	Geforce 1080TI		2000	5600	Windows 7 Pro		www.xmrcgpu.com with large pages enabled	280	Monero	Cryptonight	4450	$ 0.37	$ 10.96	-	$ -14.04
+NVIDIA	MSI	1070 TI 8GB		1645	4475	Windows 10	388.43	DSTM Zminer	250	Komodo	Equihash	518	$ 0.36	$ 10.72	-	$ -11.60
+NVIDIA	ASUS	1080TI FTW3 11 GB DDR5		2000	5066	Windows 7 x64		XMRCGPU	300	Monero	Cryptonight	3950	$ 0.32	$ 9.73	-	$ -17.05
+NVIDIA	GIGABYTE	GeForce GTX 1080		1900	5900	Windows 10 pro		www.xmrcgpu.com	180	Monero	Cryptonight	3370	$ 0.28	$ 8.30	-	$ -7.77
+NVIDIA	EVGA	1080TI FTW3 11 GB DDR5		2000	5600	Windows 10		XMRMINER	308	Monero	Cryptonight	3150	$ 0.26	$ 7.76	-	$ -19.74
+NVIDIA	ZOTAC	GTX 1070 Ti AMP		1680	4800	Windows 10	388.13 / Afterburner 4.4.0 Beta 20	BBT-multiminer-v5.6.2	140	DigiByte	Scrypt	4205000	$ 0.15	$ 4.54	-	$ -7.96
+NVIDIA	NVIDIA	Tesla V100 16GB HBM2		1530	877	Windows 10	385.54	BBT-multiminer	250	Monero	Cryptonight	1670	$ 0.14	$ 4.11	-	$ -18.21
+NVIDIA	NVIDIA	Tesla V100 16GB HBM2		1530	877	Windows 10	385.54	BBT-multiminer	250	Zcash	Equihash	950	$ 0.13	$ 3.79	-	$ -18.53
+NVIDIA	NVIDIA	GTX TITAN V 12GB HBM2		1477	972	Windows 10	388.59	Claymore	248	Zcash	Equihash	863	$ 0.11	$ 3.45	-	$ -18.69
+NVIDIA	ZOTAC	GTX 1080		2000	5215	Windows 10 pro	Afterburner	EWBF	250	Zcash	Equihash	631	$ 0.08	$ 2.52	-	$ -19.80
+NVIDIA	ZOTAC	GTX 1070 Ti AMP		1680	4800	Windows 10	388.13 / Afterburner 4.4.0 Beta 20	BBT-multiminer-v5.6.2	200	Zcash	Equihash	577	$ 0.08	$ 2.30	-	$ -15.56
+NVIDIA	ZOTAC	GTX 1070 Ti AMP		1680	4800	Windows 10	388.13 / Afterburner 4.4.0 Beta 20	BBT-multiminer-v5.6.2	145	Zcash	Equihash	540	$ 0.07	$ 2.16	-	$ -10.79
+NVIDIA	NVIDIA	GTX 1080 8GB Pascal stock (-70V)		1657	4635	Windows 10	382.05	Claymore	170	Zcash	Equihash	517	$ 0.07	$ 2.06	-	$ -13.12
+NVIDIA	MSI	1070 TI 8GB		1645	4475	Windows 10	388.43	EWBF 0.3.4b Cuda miner	250	Zcash	Equihash	500	$ 0.07	$ 2.00	-	$ -20.32
+NVIDIA	MSI	GTX 1070 TI 8Gb GDDR5 (Micron)		1720	4400	Windows 10	388.71	Zhash	145	Zcash	Equihash	500	$ 0.07	$ 2.00	-	$ -10.95
+NVIDIA	ZOTAC	GTX 1070 Ti AMP		2060	4700	Windows 10	388.13 / Afterburner 4.4.0 Beta 20	BBT-multiminer-v5.6.2	140	Monero	Cryptonight	795	$ 0.07	$ 1.96	-	$ -10.54
+NVIDIA	ZOTAC	GTX 1070 Ti AMP		1600	4600	Windows 10	388.13 / Afterburner 4.4.0 Beta 20	BBT-multiminer-v5.6.2	116	Zcash	Equihash	480	$ 0.06	$ 1.92	-	$ -8.44
+NVIDIA	GIGABYTE	Geforce 1080 G1		-	-	Windows 7 x64			126	Zcash	Equihash	465	$ 0.06	$ 1.86	-	$ -9.39
+NVIDIA	MSI	GAMING 1070 Ti		1582	3802	Ubuntu 17.04	387.22	ewbf 0.3.4b	111	Zcash	Equihash	458	$ 0.06	$ 1.83	-	$ -8.08
+NVIDIA	ASUS	GTX 1070 TI Optimized		-	-	Windows 10	388.13	Nicehash v2.0.1.3	180	Monero	Cryptonight	722	$ 0.06	$ 1.78	-	$ -14.29
+NVIDIA	ZOTAC	ZOTAC AMP 1070		-	-	Windows 10		EXCAVATOR 1.1.4A	120	Zcash	Equihash	437	$ 0.06	$ 1.75	-	$ -8.96
+NVIDIA	ASUS	GeForce 1070 GTX		1185	4608	Windows 10	378.78	CCminer	200	Monero	Cryptonight	708	$ 0.06	$ 1.74	-	$ -16.12
+NVIDIA	ASUS	GTX 980 TI Asus strix		1215	3304	Windows 10	382.05	Claymore	235	Zcash	Equihash	430	$ 0.06	$ 1.72	-	$ -19.26
+NVIDIA	MSI	MSI GTX 1070 GAMING Z		-	-	Windows 10		NICEHASHMINER_V1.7.5.9	120	Zcash	Equihash	421	$ 0.06	$ 1.68	-	$ -9.03
+NVIDIA	ZOTAC	GTX 980 TI 6GB		1050	1750	Windows 10	382.05	Nicehash v1.1.4a	220	Zcash	Equihash	390	$ 0.05	$ 1.56	-	$ -18.08
+NVIDIA	ASUS	GTX 1070 TI stock		-	-	Windows 10	388.13	Nicehash v2.0.1.3	180	Monero	Cryptonight	616	$ 0.05	$ 1.52	-	$ -14.55
+NVIDIA	NVIDIA	Tesla V100 16GB HBM2		1530	877	Windows 10	385.54	BBT-multiminer	250	LBRY Credits	Lbry	769000000	$ 0.05	$ 1.51	3.08	$ -20.81
+NVIDIA	EVGA	EVGA GTX 980 4GB SUPERCLOCKED		1442	3903	Windows 10	388.00	EWBF Zcash cuda miner 0.3.4b	200	Zcash	Equihash	358	$ 0.05	$ 1.43	-	$ -16.43
+NVIDIA	ASUS	ROG GTX 1060 6Gb GDDR5 SAMSUNG Memory - Over Clocked		2164	4704	Windows 10	385.41	EWBF 0.3.4b	150	Zcash	Equihash	352	$ 0.05	$ 1.41	-	$ -11.98
+NVIDIA	EVGA	EVGA GTX 1060 6GB SSC		-	-	Windows 10		EWBF 0.3.3B	151	Zcash	Equihash	345	$ 0.05	$ 1.38	-	$ -12.10
+NVIDIA	MSI	MSI GEFORCE 980 TI		1250	7010	Windows 10 pro		NICEHASH GUI	190	Zcash	Equihash	335	$ 0.04	$ 1.34	-	$ -15.62
+NVIDIA	ASUS	ROG GTX 1060 6Gb GDDR5 SAMSUNG		2050	3898	Windows 10	385.41	Claymore	150	Zcash	Equihash	317	$ 0.04	$ 1.27	-	$ -12.12
+NVIDIA	AMD	EVGA GTX 1060 6GB SSC		-	-	Windows 10		EWBF 0.3.3B	95	Zcash	Equihash	315	$ 0.04	$ 1.26	-	$ -7.22
+NVIDIA	EVGA	EVGA GTX 1060 6GB SSC		-	-	Windows 10		EWBF 0.3.3B	106	Zcash	Equihash	297	$ 0.04	$ 1.19	-	$ -8.27
+NVIDIA	NVIDIA	Tesla V100 16GB HBM2		1530	877	Windows 10	385.54	BBT-multiminer	250	Decred	Blake-256	6500000000	$ 0.04	$ 1.11	26.00	$ -21.21
+NVIDIA	ASUS	ROG GTX 1060 6Gb GDDR5 SAMSUNG		2050	3898	Windows 10	385.41	Xmr-Miner 0.2.1	150	Monero	Cryptonight	445	$ 0.04	$ 1.10	-	$ -12.29
+NVIDIA	PNY	1070		69	599			nanopool	0	Zcash	Equihash	270	$ 0.04	$ 1.08	inf	$ 1.083
